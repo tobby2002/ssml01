@@ -1,5 +1,4 @@
-# ssml01
-간단한 생성모델챗봇 만들기
+생성모델형 웹챗봇 만들기
 
 1. git 설치
     http://git-scm.com/download/win 접속하면 자동으로 다운로드 진행
